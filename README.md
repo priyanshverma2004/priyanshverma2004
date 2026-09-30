@@ -7,17 +7,17 @@ I like building things that sit at the intersection of classical ML and modern L
 **Skills:**
 Machine Learning | Deep Learning | Natural Language Processing | Generative AI | Data Analysis | Flask | MLOps
 
-**Tools:**
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50" height="50">&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter/jupyter.png" alt="Jupyter" width="50" height="50">&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="Flask" width="50" height="50">&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" width="50" height="50">&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="50" height="50">&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png" alt="Pandas" width="50" height="50">&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/numpy/numpy.png" alt="NumPy" width="50" height="50">&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="50" height="50">&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/github.svg" alt="GitHub" width="50" height="50">
+**Tools**
 
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="28"></a>&nbsp;
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" height="28"></a>&nbsp;
+<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" height="28"></a>&nbsp;
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit&#45;learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="28"></a>&nbsp;
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" height="28"></a>&nbsp;
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="28"></a>&nbsp;
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" height="28"></a>&nbsp;
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="28"></a>&nbsp;
+<a href="https://github.com/priyanshverma2004"><img src="https://img.shields.io/badge/GitHub-181616?style=for-the-badge&logo=github&logoColor=white" alt="github" height="28"></a>&nbsp;
 ---
 
 ### 🚀 Featured Work
@@ -42,4 +42,4 @@ Machine Learning | Deep Learning | Natural Language Processing | Generative AI |
 
 ---
 
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/instagram.svg)](https://www.instagram.com/priy.ansh_2004/) [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/linkedin.svg)](https://www.linkedin.com/in/priyansh-verma-7173572aa/?isSelfProfile=true) [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/github.svg)](https://github.com/priyanshverma2004)
+<a href="https://www.instagram.com/priy.ansh_2004/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28"></a>&nbsp;<a href="https://www.linkedin.com/in/priyansh-verma-7173572aa/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"></a>&nbsp;<a href="https://github.com/priyanshverma2004"><img src="https://img.shields.io/badge/GitHub-181616?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"></a>
