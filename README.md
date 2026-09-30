@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi there 👋, Welcome!
 
-<!--
-**priyanshverma2004/priyanshverma2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 My name is **Priyansh Verma**. I'm pursuing an **MCA with a specialization in Generative AI**, where I spend most of my time working on machine learning, deep learning, and NLP. 🤖
 
-Here are some ideas to get you started:
+I like building things that sit at the intersection of classical ML and modern LLM tooling — from sentiment analysis and churn prediction pipelines to Flask apps wired up to the Gemini API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+Machine Learning | Deep Learning | Natural Language Processing | Generative AI | Data Analysis | Flask | MLOps
+
+**Tools:**
+[![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)](https://www.python.org/) [![Jupyter](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter/jupyter.png)](https://jupyter.org/) [![Flask](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png)](https://flask.palletsprojects.com/) [![scikit-learn](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png)](https://scikit-learn.org/) [![TensorFlow](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png)](https://www.tensorflow.org/) [![Pandas](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png)](https://pandas.pydata.org/) [![NumPy](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/numpy/numpy.png)](https://numpy.org/) [![Git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)](https://git-scm.com/) [![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/priyanshverma2004)
+
+---
+
+### 🚀 Featured Work
+
+| Project | What it is |
+|---|---|
+| **[interviewer-coach](https://github.com/priyanshverma2004/interviewer-coach)** | Flask web app that runs mock interviews and generates feedback reports, powered by the Gemini API |
+| **[NLP_Exps](https://github.com/priyanshverma2004/NLP_Exps)** | A full set of NLP experiments — preprocessing, vectorization, classification, and an SMS spam detection project |
+| **[DL_exps-](https://github.com/priyanshverma2004/DL_exps-)** | Deep learning experiments on neural network architectures and training techniques |
+| **[Sentiment_Analysis_prj](https://github.com/priyanshverma2004/Sentiment_Analysis_prj)** | End-to-end sentiment analysis project |
+| **[Custo_churn_pred_prj](https://github.com/priyanshverma2004/Custo_churn_pred_prj)** | Customer churn prediction model |
+| **[CRISP-DM Case Study — Netflix Recommendations](https://github.com/priyanshverma2004/CRISP-DM-Case-Study-on-Netflix-s-Recommendation)** | Data mining case study following the CRISP-DM methodology |
+
+---
+
+- 🔭 I’m currently working on **Generative AI** coursework and extending my interviewer-coach project.
+- 🌱 I’m currently learning **LLM fine-tuning, RAG pipelines, and deeper NLP**.
+- 💬 Ask me about **Python, ML/DL fundamentals, NLP, or anything GenAI**
+- 📫 How to reach me: [priy.ansh_2004](https://www.instagram.com/priy.ansh_2004/) (Instagram), [priyansh-verma](https://www.linkedin.com/in/priyansh-verma-7173572aa/?isSelfProfile=true) (LinkedIn)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a repo called `NLP_Exps` with ten notebooks in it — and at least six of those exist because a single regex silently ruined a result I couldn't figure out for an hour.
+
+---
+
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/instagram.svg)](https://www.instagram.com/priy.ansh_2004/) [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/linkedin.svg)](https://www.linkedin.com/in/priyansh-verma-7173572aa/?isSelfProfile=true) [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/github.svg)](https://github.com/priyanshverma2004)
